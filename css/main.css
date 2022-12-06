@@ -55,15 +55,7 @@
 }
 
 .slide-image-2 {
-  background-image: url("https://raw.githubusercontent.com/3rdcollege/3rdcollege.github.io/main/img/3rdcollege_pic1-02.png");
-}
-
-.slide-image-3 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
-}
-
-.slide-image-4 {
-  background-image: url("img/3rdcollege_pic1-01.png");
+  background-image: url("https://raw.githubusercontent.com/3rdcollege/3rdcollege.github.io/main/img/3rdcollege_pic2-01.png");
 }
 
 .project-main-image-1 {
@@ -3671,7 +3663,7 @@ form .inputs-description {
 .slide-caption p span {
   display: block;
   font: normal 400 1.4rem/1.6 "Poppins", sans-serif;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 0, 0.8);
 }
 @media only screen and (min-width: 768px) {
   .slide-caption {
